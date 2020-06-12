@@ -1,0 +1,24 @@
+body{margin:0;}
+
+.img1{width: 900px; height:100px;margin:0 auto;}
+
+.main{width:1170px;
+	height: auto;
+		margin:0 auto;
+		text-align: center;
+		}
+
+.mid{width: 900px;margin: 0 auto;text-align: center;}
+.banar{width:900px; margin: 0 auto;margin-top: 40px;margin-bottom: 40px;}
+img{width: 100%;}
+
+.hnp{width: 900px;margin:0 auto;text-align:left;font-family: verdana;}
+
+.pp{width: 900px;margin:0 auto;margin-top:0;text-align:left;}
+.fotr{width:900px;background:#009665;margin:0 auto;padding:20px;font-family: Verdana;color:white;}
+mark{color:skyblue;background:none;}
+span{color:orange;}
+.m1{color:#009665;}
+.mm1{color:#c71;}
+.hh1{text-align: center;font-family: verdana;}
+.img1{width:300px; height:100px;}
